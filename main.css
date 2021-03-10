@@ -113,7 +113,7 @@ section .star.star8 {
 .container {
     position: relative;
     margin-top: 200vh;
-    background: lightsalmon;
+    background: rgba(0, 0, 0, 0.95);
     padding: 100px;
     color: whitesmoke;
     z-index: 1;
